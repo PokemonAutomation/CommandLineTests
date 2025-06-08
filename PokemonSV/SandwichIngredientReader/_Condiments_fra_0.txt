@@ -1,0 +1,10 @@
+mayonnaise
+ketchup
+mustard
+butter
+peanut-butter
+chili-sauce
+salt
+pepper
+yogurt
+whipped-cream

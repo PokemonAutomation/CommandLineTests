@@ -1,0 +1,10 @@
+olive-oil
+vinegar
+horseradish
+curry-powder
+wasabi
+sweet-herba-mystica
+salty-herba-mystica
+sour-herba-mystica
+bitter-herba-mystica
+spicy-herba-mystica

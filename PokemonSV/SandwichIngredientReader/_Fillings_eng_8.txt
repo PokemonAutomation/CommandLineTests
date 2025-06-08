@@ -1,0 +1,10 @@
+tomato
+cherry-tomatoes
+cucumber
+pickle
+onion
+red-onion
+green-bell-pepper
+red-bell-pepper
+yellow-bell-pepper
+avocado
