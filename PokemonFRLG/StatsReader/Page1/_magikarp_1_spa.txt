@@ -1,0 +1,4 @@
+magikarp
+5
+female
+Naive

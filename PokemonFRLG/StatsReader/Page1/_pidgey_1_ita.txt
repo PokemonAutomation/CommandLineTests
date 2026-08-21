@@ -1,0 +1,4 @@
+pidgeot
+3
+male
+Adamant

@@ -1,0 +1,4 @@
+bulbasaur
+5
+male
+Naughty
