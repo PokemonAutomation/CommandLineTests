@@ -1,0 +1,43 @@
+{
+  "Reference": [
+    {"up": "Switch1/CFW-BrightBG-Up.png", "down": "Switch1/CFW-BrightBG-Down.png"},
+    {"up": "Switch1/CFW-DarkBG-Up.png", "down": "Switch1/CFW-DarkBG-Down.png"}
+  ],
+  "Console-Screenshot": [
+    {"up": "Switch2/Switch2-Screenshot-Up.JPG", "down": "Switch2/Switch2-Screenshot-Down.JPG"}
+  ],
+  "Win-CheapCard": [
+    {"up": "Switch1/Kuro-Win-CheapCard-Up.png", "down": "Switch1/Kuro-Win-CheapCard-Down.png"},
+    {"up": "Switch1/jw-Win-CheapCard-Up.png", "down": "Switch1/jw-Win-CheapCard-Down.png"},
+    {"up": "Switch2/Astro-Win-CheapCard-Up.png", "down": "Switch2/Astro-Win-CheapCard-Down.png"}
+  ],
+  "Win-CheapCard-GreenShift": [
+    {"up": "Switch2/Fye-Win-CheapCard-Up.png", "down": "Switch2/Fye-Win-CheapCard-Down.png"},
+    {"up": "Switch2/jw-Win-CheapCard-Up.png", "down": "Switch2/jw-Win-CheapCard-Down.png"}
+  ],
+  "Win-CheapCard-HighContrast": [
+    {"up": "Switch1/Fye-Win-CheapCard-Up.png", "down": "Switch1/Fye-Win-CheapCard-Down.png"}
+  ],
+  "Win-MYPIN": [
+    {"up": "Switch1/Kuro-Win-MYPIN-Up.png", "down": "Switch1/Kuro-Win-MYPIN-Down.png"}
+  ],
+  "Win-Shadowcast": [
+    {"up": "Switch1/pifopi-Win-Shadowcast-Up.png", "down": "Switch1/pifopi-Win-Shadowcast-Down.png"}
+  ],
+  "Win-Shadowcast-GreenShift": [
+    {"up": "Switch2/pifopi-Win-Shadowcast-Up.png", "down": "Switch2/pifopi-Win-Shadowcast-Down.png"}
+  ],
+  "Win-Elgato": [
+    {"up": "Switch2/Kichi-Win-Elgato-Up.png", "down": "Switch2/Kichi-Win-Elgato-Down.png"}
+  ],
+  "Mac-Mirabox-HighContrast": [
+    {"up": "Switch1/Gimikyu-mac-Mirabox-Up.png", "down": "Switch1/Gimikyu-mac-Mirabox-Down.png"}
+  ],
+  "Mac-Mirabox": [
+    {"up": "Switch2/Gimikyu-mac-Mirabox-Up.png", "down": "Switch2/Gimikyu-mac-Mirabox-Down.png"},
+    {"up": "Switch1/Boomb-mac-Mirabox-Up.png", "down": "Switch1/Boomb-mac-Mirabox-Down.png"}
+  ],
+  "Mac-Mirabox-GreenShift": [
+    {"up": "Switch2/Gin-mac-Mirabox-Up.png", "down": "Switch2/Gin-mac-Mirabox-Down.png"}
+  ]
+}
