@@ -54,6 +54,11 @@ MyGithubRepos/
   `SerialPrograms-Settings.json`. This runs every registered test case in
   parallel (bounded by memory and thread limits) and returns a non-zero exit
   code if anything fails.
+- **Filter by substring:** add `--test-substring <value>` to the command line
+  (e.g. `pa-test --test-substring BlackBorder`) to only run the tests whose
+  names contain that substring (case-sensitive, the same matching as the GUI's
+  "Run All Tests Containing This Substring" mode). Without it, or with an empty
+  value, every test runs.
 - **GUI:** the "Unit Test Runner" program can run a single test, the tests
   matching a substring, or all tests.
 
