@@ -14,10 +14,11 @@ the palette (`-Up.png`) and one at the bottom (`-Down.png`). Add the pair to
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="CaptureCardCalibration/Switch2/Dolphin-Win-HD60Pro-Up.png" width="320" alt="Edit Background color picker scrolled to the top"> | <img src="CaptureCardCalibration/Switch2/Dolphin-Win-HD60Pro-Down.png" width="320" alt="Edit Background color picker scrolled to the bottom"> |
 
-In your pull request, include the capture card make and model, your operating
-system (OS), and the Switch model.
-Maintainers can run the calibration scripts and assign the label for you. If you
-want to run them yourself, follow the [calibration guide](CaptureCardCalibration/README.md).
+Use the same filename stem for both screenshots. In your pull request, include
+the capture card make and model, your operating system (OS), and the Switch model.
+After the screenshots merge, GitHub Actions opens or updates a follow-up PR with
+the proposed labels and transforms for maintainers to review. See the
+[calibration guide](CaptureCardCalibration/README.md) for the review steps.
 
 ## Returning contributors with the same setup
 
