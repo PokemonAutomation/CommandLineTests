@@ -1,12 +1,12 @@
-stunky
-ponyta
-duskull
-electabuzz
-gabite
-snover
-luxio
-gligar
-graveler
-mime-jr
-snover
-clefairy
+stunky 0.4021 0.3556
+ponyta 0.4714 0.3593
+duskull 0.5385 0.4204
+electabuzz 0.4099 0.5528
+gabite 0.4708 0.5722
+snover 0.5630 0.6065
+luxio 0.3260 0.6500
+gligar 0.6302 0.6787
+graveler 0.3740 0.7139
+mime-jr 0.5109 0.7620
+snover 0.4417 0.7769
+clefairy 0.4073 0.8444

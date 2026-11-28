@@ -1,9 +1,9 @@
-qwilfish-hisuian
-psyduck
-psyduck
-spheal
-magby
-tentacool
-piplup
-togetic
-staravia
+qwilfish-hisuian 0.6943 0.2685
+psyduck 0.4167 0.3259
+psyduck 0.5182 0.3593
+spheal 0.4708 0.4056
+magby 0.3755 0.4648
+tentacool 0.6208 0.4806
+piplup 0.5177 0.7315
+togetic 0.3984 0.7417
+staravia 0.5745 0.7787

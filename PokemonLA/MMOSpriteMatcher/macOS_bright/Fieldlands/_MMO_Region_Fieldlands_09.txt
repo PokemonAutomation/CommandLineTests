@@ -1,13 +1,13 @@
-buizel
-ponyta
-monferno
-wurmple
-shinx
-pichu
-paras
-cascoon
-mime-jr
-shellos
-mime-jr
-luxio
-abra
+buizel 0.5719 0.2028
+ponyta 0.3339 0.2278
+monferno 0.7052 0.2870
+wurmple 0.5646 0.4074
+shinx 0.6255 0.4417
+pichu 0.4516 0.4667
+paras 0.3719 0.5426
+cascoon 0.4260 0.5528
+mime-jr 0.6078 0.5611
+shellos 0.4938 0.5694
+mime-jr 0.3792 0.7546
+luxio 0.5370 0.7889
+abra 0.3099 0.8028

@@ -1,11 +1,11 @@
-ponyta
-cascoon
-munchlax
-monferno
-luxio
-pichu
-kadabra
-ponyta
-zubat
-chatot
-bidoof
+ponyta 0.6594 0.1343
+cascoon 0.3339 0.2278
+munchlax 0.5958 0.3074
+monferno 0.4161 0.3213
+luxio 0.5646 0.4074
+pichu 0.6255 0.4417
+kadabra 0.7120 0.6185
+ponyta 0.3714 0.6324
+zubat 0.6302 0.7806
+chatot 0.5370 0.7889
+bidoof 0.3099 0.8028

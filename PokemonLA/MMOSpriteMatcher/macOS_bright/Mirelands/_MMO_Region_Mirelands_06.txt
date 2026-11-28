@@ -1,14 +1,14 @@
-croagunk
-onix
-unown-a
-paras
-hippopotas
-skorupi
-petilil
-swinub
-rhydon
-ursaring
-paras
-hippopotas
-bonsly
-stunky
+croagunk 0.3896 0.2194
+onix 0.4760 0.2648
+unown-a 0.4724 0.3343
+paras 0.6573 0.3889
+hippopotas 0.5208 0.3981
+skorupi 0.4615 0.4694
+petilil 0.3927 0.5176
+swinub 0.6146 0.5222
+rhydon 0.5109 0.5528
+ursaring 0.6599 0.6565
+paras 0.6651 0.7519
+hippopotas 0.3844 0.7528
+bonsly 0.5318 0.8046
+stunky 0.6073 0.8222

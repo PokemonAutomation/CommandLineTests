@@ -1,14 +1,14 @@
-mantyke
-tentacool
-growlithe-hisuian
-psyduck
-staravia
-riolu
-psyduck
-finneon
-happiny
-sealeo
-magby
-spheal
-tentacool
-sealeo
+mantyke 0.4943 0.0926
+tentacool 0.6943 0.2676
+growlithe-hisuian 0.4167 0.3259
+psyduck 0.5182 0.3593
+staravia 0.6172 0.3944
+riolu 0.4708 0.4056
+psyduck 0.3271 0.4954
+finneon 0.4677 0.5676
+happiny 0.3380 0.6278
+sealeo 0.7177 0.6296
+magby 0.4484 0.7093
+spheal 0.5177 0.7315
+tentacool 0.6417 0.8157
+sealeo 0.4995 0.8380

@@ -1,14 +1,14 @@
-elekid
-rhydon
-rhyhorn
-gastly
-ponyta
-stunky
-yanma
-chingling
-rhyhorn
-duskull
-rhydon
-ponyta
-voltorb-hisuian
-shinx
+elekid 0.6453 0.4213
+rhydon 0.4667 0.4648
+rhyhorn 0.5557 0.5009
+gastly 0.6089 0.5028
+ponyta 0.6729 0.5574
+stunky 0.4708 0.5722
+yanma 0.3578 0.5806
+chingling 0.5630 0.6065
+rhyhorn 0.6302 0.6787
+duskull 0.4417 0.7769
+rhydon 0.3307 0.7889
+ponyta 0.6161 0.8343
+voltorb-hisuian 0.4073 0.8444
+shinx 0.5516 0.8537

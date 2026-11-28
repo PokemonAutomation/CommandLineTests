@@ -1,12 +1,12 @@
-pichu
-golbat
-wurmple
-wurmple
-mime-jr
-cascoon
-shellos
-chatot
-stantler
-abra
-graveler
-scyther
+pichu 0.6594 0.1343
+golbat 0.3339 0.2278
+wurmple 0.4161 0.3213
+wurmple 0.4880 0.3287
+mime-jr 0.6255 0.4417
+cascoon 0.4516 0.4667
+shellos 0.6078 0.5611
+chatot 0.7120 0.6185
+stantler 0.3714 0.6324
+abra 0.5495 0.6324
+graveler 0.3792 0.7546
+scyther 0.4458 0.7565

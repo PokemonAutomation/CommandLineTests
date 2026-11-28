@@ -1,11 +1,11 @@
-pikachu
-kricketot
-zorua-hisuian
-drifloon
-munchlax
-munchlax
-buizel
-spheal
-kadabra
-staravia
-spheal
+pikachu 0.5135 0.1287
+kricketot 0.3339 0.2278
+zorua-hisuian 0.7052 0.2870
+drifloon 0.5958 0.3074
+munchlax 0.4161 0.3213
+munchlax 0.4880 0.3287
+buizel 0.5646 0.4074
+spheal 0.3714 0.6324
+kadabra 0.3792 0.7546
+staravia 0.7026 0.7694
+spheal 0.6302 0.7806

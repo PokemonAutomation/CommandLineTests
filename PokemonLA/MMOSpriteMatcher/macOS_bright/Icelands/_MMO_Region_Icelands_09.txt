@@ -1,12 +1,12 @@
-kirlia
-piloswine
-drifloon
-drifloon
-dusclops
-aipom
-rufflet
-pachirisu
-machop
-piloswine
-ralts
-ralts
+kirlia 0.5109 0.2963
+piloswine 0.6568 0.3880
+drifloon 0.3354 0.4750
+drifloon 0.5453 0.4954
+dusclops 0.6068 0.5028
+aipom 0.4016 0.5639
+rufflet 0.5312 0.5833
+pachirisu 0.3396 0.5981
+machop 0.4094 0.6639
+piloswine 0.3500 0.6972
+ralts 0.2969 0.7389
+ralts 0.5849 0.7657

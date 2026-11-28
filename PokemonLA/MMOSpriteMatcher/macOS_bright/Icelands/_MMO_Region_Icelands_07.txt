@@ -1,10 +1,10 @@
-snorunt
-oshawott
-oshawott
-machop
-snorunt
-glameow
-magby
-riolu
-magby
-kirlia
+snorunt 0.4260 0.2102
+oshawott 0.5328 0.4065
+oshawott 0.4021 0.4102
+machop 0.3354 0.4750
+snorunt 0.5453 0.4954
+glameow 0.6068 0.5028
+magby 0.5312 0.5843
+riolu 0.4094 0.6639
+magby 0.2969 0.7389
+kirlia 0.4286 0.7602

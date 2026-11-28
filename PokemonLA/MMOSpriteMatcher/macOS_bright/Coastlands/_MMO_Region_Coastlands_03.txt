@@ -1,12 +1,12 @@
-psyduck
-shellos-east-sea
-starly
-magmar
-magikarp
-chansey
-shellos-east-sea
-shellos-east-sea
-prinplup
-machop
-magikarp
-aipom
+psyduck 0.4115 0.1278
+shellos-east-sea 0.6182 0.1537
+starly 0.6172 0.3944
+magmar 0.3755 0.4648
+magikarp 0.4677 0.5676
+chansey 0.4484 0.7093
+shellos-east-sea 0.5177 0.7315
+shellos-east-sea 0.3984 0.7417
+prinplup 0.6286 0.7426
+machop 0.5745 0.7787
+magikarp 0.6417 0.8157
+aipom 0.7057 0.8213

@@ -1,12 +1,12 @@
-bonsly
-skorupi
-sliggoo-hisuian
-kricketot
-spiritomb
-gastly
-stunky
-croagunk
-haunter?
-bronzor
-haunter
-hippopotas
+bonsly 0.4125 0.1454
+skorupi 0.6198 0.1917
+sliggoo-hisuian 0.5547 0.2509
+kricketot 0.4760 0.2648
+spiritomb 0.3625 0.3231
+gastly 0.5208 0.3981
+stunky 0.3927 0.5176
+croagunk 0.5109 0.5528
+haunter? 0.5307 0.6380
+bronzor 0.6599 0.6565
+haunter 0.3844 0.7528
+hippopotas 0.4401 0.7583

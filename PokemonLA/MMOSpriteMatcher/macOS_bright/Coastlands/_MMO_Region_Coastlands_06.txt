@@ -1,14 +1,14 @@
-qwilfish-hisuian
-vulpix
-glameow
-tentacool
-magby
-sealeo
-happiny
-machop
-basculin-hisuian
-spheal
-spheal
-sealeo
-magikarp
-skorupi
+qwilfish-hisuian 0.4943 0.0926
+vulpix 0.6182 0.1537
+glameow 0.3438 0.1852
+tentacool 0.6943 0.2685
+magby 0.3255 0.3130
+sealeo 0.5182 0.3593
+happiny 0.6172 0.3944
+machop 0.4708 0.4056
+basculin-hisuian 0.4677 0.5676
+spheal 0.7177 0.6296
+spheal 0.3375 0.7306
+sealeo 0.5745 0.7787
+magikarp 0.6417 0.8157
+skorupi 0.4995 0.8389

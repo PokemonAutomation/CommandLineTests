@@ -1,15 +1,15 @@
-lickitung
-pachirisu
-pachirisu
-swinub
-gastly
-vulpix
-bergmite
-kadabra
-swinub
-dusclops
-ralts
-dusclops
-aipom
-machop
-bronzor
+lickitung 0.5370 0.1417
+pachirisu 0.4260 0.2102
+pachirisu 0.5552 0.2750
+swinub 0.6568 0.3880
+gastly 0.4021 0.4102
+vulpix 0.5828 0.4120
+bergmite 0.4646 0.4315
+kadabra 0.3354 0.4750
+swinub 0.5453 0.4954
+dusclops 0.4016 0.5639
+ralts 0.5312 0.5833
+dusclops 0.4094 0.6639
+aipom 0.3500 0.6972
+machop 0.4286 0.7602
+bronzor 0.3214 0.8250

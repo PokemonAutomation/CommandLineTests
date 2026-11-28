@@ -1,10 +1,10 @@
-abra
-kadabra
-bronzor
-bergmite
-pachirisu
-glameow
-lickitung
-bronzor
-snover
-gastly
+abra 0.4260 0.2102
+kadabra 0.6568 0.3880
+bronzor 0.4021 0.4102
+bergmite 0.3354 0.4750
+pachirisu 0.3396 0.5981
+glameow 0.4542 0.5981
+lickitung 0.5297 0.6861
+bronzor 0.3500 0.6972
+snover 0.2969 0.7389
+gastly 0.3214 0.8250

@@ -1,11 +1,11 @@
-shinx
-ponyta
-dusclops
-gastly
-ponyta
-rotom
-rhydon
-gastly
-voltorb-hisuian
-clefairy
-rhyhorn
+shinx 0.4714 0.3593
+ponyta 0.5385 0.4204
+dusclops 0.3885 0.4556
+gastly 0.5557 0.5009
+ponyta 0.4099 0.5528
+rotom 0.5125 0.6509
+rhydon 0.6302 0.6787
+gastly 0.6865 0.7102
+voltorb-hisuian 0.4417 0.7769
+clefairy 0.3307 0.7889
+rhyhorn 0.4073 0.8444

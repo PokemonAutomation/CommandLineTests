@@ -1,14 +1,14 @@
-starly
-chatot
-ponyta
-staravia
-spheal
-zubat
-wurmple
-abra
-paras
-paras
-scyther
-pikachu
-cascoon
-pichu
+starly 0.5135 0.1287
+chatot 0.6594 0.1343
+ponyta 0.5958 0.3074
+staravia 0.4161 0.3213
+spheal 0.5646 0.4074
+zubat 0.4516 0.4667
+wurmple 0.3719 0.5426
+abra 0.4938 0.5694
+paras 0.5495 0.6315
+paras 0.3714 0.6324
+scyther 0.3792 0.7546
+pikachu 0.4458 0.7565
+cascoon 0.6302 0.7806
+pichu 0.5370 0.7889

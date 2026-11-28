@@ -1,12 +1,12 @@
-hippopotas
-chingling
-voltorb-hisuian
-voltorb-hisuian
-gligar
-luxio
-elekid
-snover
-duskull
-stunky
-gastly
-ponyta
+hippopotas 0.4021 0.3556
+chingling 0.5385 0.4204
+voltorb-hisuian 0.6453 0.4213
+voltorb-hisuian 0.4667 0.4648
+gligar 0.5557 0.5009
+luxio 0.6729 0.5574
+elekid 0.5630 0.6065
+snover 0.4406 0.6343
+duskull 0.5109 0.7620
+stunky 0.3307 0.7889
+gastly 0.6161 0.8343
+ponyta 0.5516 0.8537

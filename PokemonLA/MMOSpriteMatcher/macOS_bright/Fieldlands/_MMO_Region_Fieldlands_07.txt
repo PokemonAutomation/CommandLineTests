@@ -1,11 +1,11 @@
-munchlax
-buizel
-buizel
-abra
-wurmple
-buizel
-wurmple
-zorua-hisuian
-spheal
-geodude
-bidoof
+munchlax 0.6594 0.1343
+buizel 0.5719 0.2028
+buizel 0.6255 0.4417
+abra 0.4260 0.5528
+wurmple 0.4938 0.5694
+buizel 0.7120 0.6185
+wurmple 0.2995 0.6694
+zorua-hisuian 0.3792 0.7546
+spheal 0.6302 0.7806
+geodude 0.5370 0.7889
+bidoof 0.3099 0.8028

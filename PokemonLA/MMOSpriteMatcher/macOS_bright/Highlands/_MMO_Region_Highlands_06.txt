@@ -1,12 +1,12 @@
-clefairy
-luxio
-ponyta
-elekid
-dartrix
-rhydon
-electabuzz
-rotom
-geodude
-elekid
-sneasel-hisuian
-gastly
+clefairy 0.4714 0.3593
+luxio 0.6453 0.4213
+ponyta 0.3885 0.4556
+elekid 0.4667 0.4648
+dartrix 0.5557 0.5009
+rhydon 0.6089 0.5028
+electabuzz 0.4099 0.5528
+rotom 0.3578 0.5806
+geodude 0.4406 0.6343
+elekid 0.3734 0.7139
+sneasel-hisuian 0.3307 0.7889
+gastly 0.5516 0.8537

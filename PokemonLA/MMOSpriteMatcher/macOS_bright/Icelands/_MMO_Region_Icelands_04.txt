@@ -1,15 +1,15 @@
-ralts
-snorunt
-duskull
-lickitung
-bidoof
-drifloon
-ralts
-swinub
-vulpix
-glameow
-rufflet
-bronzor
-pachirisu
-snover
-haunter
+ralts 0.5552 0.2750
+snorunt 0.6568 0.3880
+duskull 0.4021 0.4102
+lickitung 0.5828 0.4120
+bidoof 0.4646 0.4315
+drifloon 0.3354 0.4750
+ralts 0.6068 0.5028
+swinub 0.4016 0.5639
+vulpix 0.5312 0.5833
+glameow 0.3396 0.5981
+rufflet 0.5297 0.6861
+bronzor 0.2969 0.7389
+pachirisu 0.4286 0.7602
+snover 0.5849 0.7657
+haunter 0.3214 0.8250

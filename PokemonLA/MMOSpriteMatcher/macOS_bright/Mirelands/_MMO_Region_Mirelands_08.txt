@@ -1,12 +1,12 @@
-croagunk
-croagunk
-bronzor
-paras
-onix
-budew
-haunter
-lickitung
-teddiursa
-psyduck
-bonsly
-grotle
+croagunk 0.5042 0.1565
+croagunk 0.3896 0.2194
+bronzor 0.3625 0.3231
+paras 0.4182 0.3546
+onix 0.5208 0.3981
+budew 0.4615 0.4694
+haunter 0.3927 0.5176
+lickitung 0.6146 0.5222
+teddiursa 0.6672 0.5481
+psyduck 0.5307 0.6380
+bonsly 0.6599 0.6565
+grotle 0.4401 0.7583

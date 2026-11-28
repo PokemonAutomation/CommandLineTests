@@ -1,12 +1,12 @@
-ralts
-glameow
-machop
-rufflet
-bronzor
-magby
-glameow
-snover
-vulpix
-glameow
-bidoof
-abra
+ralts 0.5370 0.1417
+glameow 0.5109 0.2963
+machop 0.5328 0.4065
+rufflet 0.5828 0.4120
+bronzor 0.4646 0.4315
+magby 0.3354 0.4750
+glameow 0.5453 0.4954
+snover 0.5312 0.5833
+vulpix 0.4094 0.6639
+glameow 0.5297 0.6861
+bidoof 0.3500 0.6972
+abra 0.3214 0.8250

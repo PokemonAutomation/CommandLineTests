@@ -1,12 +1,12 @@
-geodude
-dartrix
-rotom
-heracross
-gible
-geodude
-yanma
-snover
-rhyhorn
-graveler
-gastly
-electabuzz
+geodude 0.4021 0.3556
+dartrix 0.4714 0.3593
+rotom 0.5385 0.4204
+heracross 0.6453 0.4213
+gible 0.3885 0.4556
+geodude 0.6089 0.5028
+yanma 0.4708 0.5722
+snover 0.3578 0.5806
+rhyhorn 0.3260 0.6500
+graveler 0.6302 0.6787
+gastly 0.6865 0.7102
+electabuzz 0.5109 0.7620

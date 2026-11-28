@@ -1,13 +1,13 @@
-zubat
-wurmple
-pikachu
-starly
-starly
-buizel
-abra
-cascoon
-wurmple
-abra
-monferno
-staravia
-paras
+zubat 0.5719 0.2028
+wurmple 0.7052 0.2870
+pikachu 0.5646 0.4074
+starly 0.4516 0.4667
+starly 0.3719 0.5426
+buizel 0.4260 0.5528
+abra 0.5495 0.6315
+cascoon 0.2995 0.6694
+wurmple 0.3792 0.7546
+abra 0.4458 0.7565
+monferno 0.7026 0.7694
+staravia 0.5370 0.7889
+paras 0.3099 0.8028

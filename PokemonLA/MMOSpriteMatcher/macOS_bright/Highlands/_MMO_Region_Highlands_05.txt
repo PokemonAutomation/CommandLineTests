@@ -1,12 +1,12 @@
-hippopotas
-rotom
-cleffa
-mime-jr
-rhyhorn
-duskull
-voltorb-hisuian
-cleffa
-snover
-duskull
-geodude
-gastly
+hippopotas 0.4021 0.3556
+rotom 0.4714 0.3593
+cleffa 0.5385 0.4204
+mime-jr 0.3885 0.4556
+rhyhorn 0.4667 0.4648
+duskull 0.6729 0.5574
+voltorb-hisuian 0.5630 0.6065
+cleffa 0.5125 0.6509
+snover 0.3740 0.7139
+duskull 0.5109 0.7620
+geodude 0.6161 0.8343
+gastly 0.4073 0.8444

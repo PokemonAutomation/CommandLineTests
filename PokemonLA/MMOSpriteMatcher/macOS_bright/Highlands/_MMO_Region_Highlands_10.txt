@@ -1,11 +1,11 @@
-snover
-voltorb-hisuian
-geodude
-snover
-geodude
-rhyhorn
-gligar
-cleffa
-electabuzz
-luxio
-duskull
+snover 0.4714 0.3593
+voltorb-hisuian 0.5385 0.4204
+geodude 0.5557 0.5009
+snover 0.6089 0.5028
+geodude 0.6729 0.5574
+rhyhorn 0.4708 0.5722
+gligar 0.3578 0.5806
+cleffa 0.6865 0.7102
+electabuzz 0.3307 0.7889
+luxio 0.4073 0.8444
+duskull 0.5516 0.8537

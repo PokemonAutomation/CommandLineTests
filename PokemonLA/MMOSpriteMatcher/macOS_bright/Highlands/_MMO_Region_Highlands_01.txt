@@ -1,14 +1,14 @@
-clefairy
-rotom
-snover
-geodude
-shinx
-gastly
-gible
-snover
-voltorb-hisuian
-bronzor
-cleffa
-sneasel-hisuian
-luxio
-gligar
+clefairy 0.4021 0.3556
+rotom 0.5385 0.4204
+snover 0.6453 0.4213
+geodude 0.5557 0.5009
+shinx 0.4099 0.5528
+gastly 0.5630 0.6065
+gible 0.4406 0.6343
+snover 0.3260 0.6500
+voltorb-hisuian 0.5125 0.6509
+bronzor 0.3740 0.7139
+cleffa 0.5109 0.7620
+sneasel-hisuian 0.3307 0.7889
+luxio 0.4073 0.8444
+gligar 0.5516 0.8537

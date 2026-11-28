@@ -1,13 +1,13 @@
-teddiursa
-haunter
-ursaring
-teddiursa
-yanma
-bonsly
-croagunk
-psyduck?
-sliggoo-hisuian
-turtwig
-yanma
-cyndaquil
-tangela
+teddiursa 0.5547 0.2509
+haunter 0.4182 0.3546
+ursaring 0.6573 0.3889
+teddiursa 0.5208 0.3981
+yanma 0.3927 0.5176
+bonsly 0.6672 0.5481
+croagunk 0.3453 0.6213
+psyduck? 0.5307 0.6389
+sliggoo-hisuian 0.6599 0.6565
+turtwig 0.6651 0.7519
+yanma 0.3844 0.7528
+cyndaquil 0.4401 0.7583
+tangela 0.6073 0.8222

@@ -1,10 +1,10 @@
-rhydon
-ursaring
-skorupi
-yanma
-pachirisu
-bronzor
-carnivine
-haunter
-swinub
-paras
+rhydon 0.6198 0.1917
+ursaring 0.3896 0.2194
+skorupi 0.4760 0.2648
+yanma 0.3625 0.3231
+pachirisu 0.3927 0.5176
+bronzor 0.6672 0.5481
+carnivine 0.5109 0.5528
+haunter 0.5880 0.6250
+swinub 0.5318 0.8046
+paras 0.6073 0.8222

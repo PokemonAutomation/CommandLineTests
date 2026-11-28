@@ -1,13 +1,13 @@
-budew
-rhyhorn
-budew
-pachirisu
-skorupi
-croagunk
-paras
-rhyhorn
-roselia
-spiritomb
-quilava
-bonsly
-turtwig
+budew 0.5547 0.2509
+rhyhorn 0.4182 0.3546
+budew 0.6573 0.3889
+pachirisu 0.3927 0.5176
+skorupi 0.6146 0.5222
+croagunk 0.6672 0.5481
+paras 0.5109 0.5528
+rhyhorn 0.3453 0.6213
+roselia 0.5307 0.6380
+spiritomb 0.6651 0.7519
+quilava 0.3844 0.7528
+bonsly 0.5318 0.8046
+turtwig 0.6073 0.8222

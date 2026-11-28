@@ -1,12 +1,12 @@
-luxio
-elekid
-haunter
-duskull
-gastly
-ponyta
-clefairy
-dusclops
-gastly
-rhyhorn
-luxio
-voltorb-hisuian
+luxio 0.4667 0.4648
+elekid 0.6089 0.5028
+haunter 0.4099 0.5528
+duskull 0.4708 0.5722
+gastly 0.3578 0.5806
+ponyta 0.4406 0.6343
+clefairy 0.5125 0.6509
+dusclops 0.6302 0.6787
+gastly 0.5109 0.7620
+rhyhorn 0.4417 0.7769
+luxio 0.3307 0.7889
+voltorb-hisuian 0.4073 0.8444

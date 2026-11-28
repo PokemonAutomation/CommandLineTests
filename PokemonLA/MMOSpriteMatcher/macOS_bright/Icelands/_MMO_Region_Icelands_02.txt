@@ -1,14 +1,14 @@
-snorunt
-aipom
-dewott
-magby
-snorunt
-riolu
-glameow
-gastly
-duskull
-haunter
-pachirisu
-bidoof
-dewott
-gastly
+snorunt 0.5370 0.1417
+aipom 0.5552 0.2750
+dewott 0.5109 0.2963
+magby 0.6568 0.3880
+snorunt 0.5328 0.4065
+riolu 0.4021 0.4102
+glameow 0.5828 0.4120
+gastly 0.4646 0.4315
+duskull 0.4016 0.5639
+haunter 0.3396 0.5981
+pachirisu 0.4094 0.6639
+bidoof 0.3500 0.6972
+dewott 0.5849 0.7657
+gastly 0.3214 0.8250

@@ -1,14 +1,14 @@
-unown-a
-haunter
-sliggoo-hisuian
-yanma
-yanma
-skorupi
-psyduck
-psyduck
-tangela
-lickitung?
-gastly?
-lickitung
-yanma
-turtwig
+unown-a 0.4724 0.3343
+haunter 0.6573 0.3889
+sliggoo-hisuian 0.5208 0.3981
+yanma 0.4615 0.4694
+yanma 0.6146 0.5222
+skorupi 0.6672 0.5481
+psyduck 0.5109 0.5528
+psyduck 0.3453 0.6213
+tangela 0.5880 0.6250
+lickitung? 0.5307 0.6389
+gastly? 0.6604 0.6574
+lickitung 0.4745 0.6778
+yanma 0.6651 0.7519
+turtwig 0.6073 0.8222
